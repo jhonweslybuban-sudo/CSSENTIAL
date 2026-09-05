@@ -1,0 +1,6 @@
+{
+  "name": "CSSENTIAL",
+  "description": "A One-Click Multi-Intervention Platform for Troubleshooting Computer System Installation and Configuration for 3rd-Year BTLED-ICT Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
